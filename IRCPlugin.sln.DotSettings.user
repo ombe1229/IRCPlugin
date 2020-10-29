@@ -1,0 +1,45 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CAssembly_002DCSharp_002Dfirstpass_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CAssembly_002DCSharp_005Fpublicized_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CExiled_002EAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CExiled_002EEvents_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CExiled_002ELoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CExiled_002EPermissions_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CExiled_002EUpdater_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CMirror_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005CDesktop_005CFiles_005CEXILED_005CYamlDotNet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CAssembly_002DCSharp_002Dfirstpass_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CAssembly_002DCSharp_005Fpublicized_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CExiled_002EAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CExiled_002EEvents_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CExiled_002ELoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CExiled_002EPermissions_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CMirror_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Csmomb_005COneDrive_005C_BC14_D0D5_0020_D654_BA74_005CFiles_005CEXILED_005CYamlDotNet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\0Harmony.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Assembly-CSharp.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Assembly-CSharp-firstpass.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Exiled.API.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Exiled.Events.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Exiled.Loader.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Exiled.Permissions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\Mirror.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\UnityEngine.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\UnityEngine.CoreModule.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\smomb\OneDrive\바탕 화면\Files\EXILED\YamlDotNet.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EUnitTestFramework_002ESettings_002EMigrations_002ERemoveBuildPolicyAlwaysMigration/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionDefault/PlatformType/@EntryValue">x64</s:String></wpf:ResourceDictionary>

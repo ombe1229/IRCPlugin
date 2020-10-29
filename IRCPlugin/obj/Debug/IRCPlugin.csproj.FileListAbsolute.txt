@@ -1,0 +1,75 @@
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\IRCPlugin.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\IRCPlugin.pdb
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Buffers.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Memory.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\obj\Debug\IRCPlugin.csprojAssemblyReference.cache
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\obj\Debug\IRCPlugin.csproj.CoreCompileInputs.cache
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\obj\Debug\IRCPlugin.csproj.CopyComplete
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\obj\Debug\IRCPlugin.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\obj\Debug\IRCPlugin.pdb
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\0Harmony.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Mirror.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\UnityEngine.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\YamlDotNet.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\LiteDB.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\LiteDB.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Exiled.API.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Exiled.Events.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Exiled.Loader.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Exiled.Permissions.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Interactive.Async.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Linq.Async.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Interactive.Async.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Linq.Async.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smomb\RiderProjects\IRCPlugin\IRCPlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\IRCPlugin.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\IRCPlugin.pdb
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\0Harmony.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Exiled.Updater.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\LiteDB.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Mirror.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Interactive.Async.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Linq.Async.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\UnityEngine.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\YamlDotNet.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Memory.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Buffers.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\LiteDB.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Interactive.Async.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Linq.Async.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\obj\Debug\IRCPlugin.csprojAssemblyReference.cache
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\obj\Debug\IRCPlugin.csproj.CoreCompileInputs.cache
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\obj\Debug\IRCPlugin.csproj.CopyComplete
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\obj\Debug\IRCPlugin.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\obj\Debug\IRCPlugin.pdb
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Exiled.API.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Exiled.Events.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Exiled.Loader.dll
+C:\Users\smomb\RiderProjects\IRCPlugin - Prerelease\IRCPlugin\bin\Debug\Exiled.Permissions.dll
